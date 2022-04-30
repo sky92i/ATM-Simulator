@@ -1,7 +1,8 @@
-# ATM-simulator
-Assignment of Java course\
-A simple ATM simulator with GUI written in Java in 2019
+# ATM simulator
+An assignment of Java course in 2019\
+A simple Java ATM simulator with a GUI that simulates ATM operations
 
+## Screenshots
 ![image](https://github.com/sky92i/ATM-simulator/blob/main/img/img1.png)
 
 ![image](https://github.com/sky92i/ATM-simulator/blob/main/img/img2.png)
